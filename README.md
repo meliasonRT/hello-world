@@ -1,2 +1,2 @@
 # hello-world
-sample repo
+Adding some sample text all the way from Madison, WI!
